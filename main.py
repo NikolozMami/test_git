@@ -1,2 +1,2 @@
-print ("hello main!")
-print("im from haifa")
+print ("hello world!")
+print("im from tel aviv")
